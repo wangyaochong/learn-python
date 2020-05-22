@@ -15,6 +15,8 @@ print(frame3)
 d2 = [{"name": "小红", "age": 18, "phone": 10086}, {"name": "小白", "age": 21, "phone": 10010}]
 frame4 = pd.DataFrame(d2)
 print(frame4)
+print("索引", frame4.index)
+print("列名", frame4.columns)
 
 print("index", frame3.index)
 print("columns", frame3.columns)

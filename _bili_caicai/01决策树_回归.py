@@ -26,3 +26,5 @@ plt.scatter(x, y)
 plt.plot(x_test, y_1, label="max_depth=2")
 plt.plot(x_test, y_2, label="max_depth=5")  # max_depth=5是过拟合的
 plt.show()
+
+
