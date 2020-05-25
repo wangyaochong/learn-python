@@ -1,14 +1,5 @@
-import matplotlib.pyplot as plt
-from sklearn.datasets import load_digits
-from sklearn.decomposition import PCA
 import pandas as pd
 import numpy as np
-from zipfile import ZipFile
-from sklearn.ensemble import RandomForestClassifier as RFC
-from sklearn.model_selection import cross_val_score
-import imblearn
-from imblearn.over_sampling import SMOTE
-from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 import scipy
 
