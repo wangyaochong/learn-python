@@ -5,3 +5,5 @@ venv
 /_bili_caicai/score.csv
 /_bili_caicai/test_data.csv
 /_bili_caicai/train_data.csv
+/_bili_caicai/xgboostonboston.dat
+/_bili_caicai/xgboost-boston.dat
