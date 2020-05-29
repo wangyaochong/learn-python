@@ -3,7 +3,7 @@ import xgboost as xgb
 from sklearn.ensemble import RandomForestRegressor as RFR
 from sklearn.linear_model import LinearRegression as LinearR
 from sklearn.datasets import load_boston
-from sklearn.model_selection import KFold, cross_val_score as CVS, train_test_split as TTS
+from sklearn.model_selection import  cross_val_score as CVS, train_test_split as TTS
 from sklearn.metrics import mean_squared_error as MSE
 import sklearn
 import pandas as pd
